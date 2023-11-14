@@ -9,5 +9,4 @@ export default {
   methods: {}
 }
 </script>
-
-<style></style>
+<style lang="scss"></style>
